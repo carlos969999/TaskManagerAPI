@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "commentTranslate.hover.enabled": false,
+    "java.debug.settings.onBuildFailureProceed": true
+}
